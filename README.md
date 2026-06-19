@@ -2,7 +2,7 @@
 
 Personal collection of [Claude Code](https://claude.com/claude-code) **skills**, packaged so they can be installed on any machine.
 
-This repo contains **57 skills + a `_shared/` support folder** (see [SKILLS.md](SKILLS.md) for the full list). All symlinks have been dereferenced into real folders, so the bundle is fully self-contained and portable across machines (Windows / macOS / Linux).
+This repo contains **59 skills + a `_shared/` support folder** (see [SKILLS.md](SKILLS.md) for the full list). All symlinks have been dereferenced into real folders, so the bundle is fully self-contained and portable across machines (Windows / macOS / Linux).
 
 > Plugins (`superpowers`, `frontend-design`, `ralph-skills`, `claude-hud`) are **not** bundled here — they are managed by Claude Code's plugin system and must be installed via the `/plugin` menu. See [Plugins](#plugins) below.
 

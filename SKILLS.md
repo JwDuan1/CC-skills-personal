@@ -1,6 +1,6 @@
 # Skills manifest
 
-57 skills + `_shared/` support folder. Grouped by known upstream source.
+59 skills + `_shared/` support folder. Grouped by known upstream source.
 
 ## Nature suite — upstream: [`Yuan1z0825/nature-skills`](https://github.com/Yuan1z0825/nature-skills)
 
@@ -29,7 +29,7 @@
 
 `academic-paper`, `academic-paper-reviewer`, `academic-pipeline`, `auto-review-loop`,
 `citation-audit`, `citation-management`, `consciousness-council`, `deep-research`,
-`docx`, `generate-image`, `grant-proposal`, `hypogenic`, `hypothesis-generation`,
+`docx`, `executing-research-plans`, `forging-research-specs`, `generate-image`, `grant-proposal`, `hypogenic`, `hypothesis-generation`,
 `idea-discovery`, `infographics`, `karpathy-guidelines`, `latex-posters`,
 `literature-review`, `markdown-mermaid-writing`, `markitdown`, `matplotlib`,
 `overleaf-sync`, `paper-claim-audit`, `paper-slides`, `pdf`, `peer-review`,
